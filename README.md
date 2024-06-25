@@ -6,6 +6,11 @@
 
 除了課堂中講述的方法之外，盡可能找尋資料或思考實作更好的features或演算法
 
+Datasets:
+1. [news](https://youtu.be/_HrEg0BE-G0)
+2. [ngc](https://youtu.be/jwkzthLvn-0)
+3. [climate](https://youtu.be/u1LSGDTdIO4)
+
 ## HW4 - Music Genre Classification
 **目標：自行撰寫程式完成music genre classification**
 
